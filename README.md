@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo2.png" alt="SkyReels Logo" width="50%">
 </p>
-
+cachorro 
 <h1 align="center">SkyReels V2: Infinite-Length Film Generative Model</h1> 
 
 <p align="center">
